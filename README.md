@@ -1,5 +1,6 @@
 #Tarea Coursera Semana 2#
-El archivo para revisar de la tarea dos se encuentra en:
+El archivo del playground con el código para revisar se encuentra en:
+"Coursera_Semana2/Tarea_Semana2.playground/Contents.swift"
 
 ###Review Criteria###
 1. ¿El playground se encuentra en GitHub?
