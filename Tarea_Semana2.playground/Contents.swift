@@ -32,7 +32,7 @@ let reglas = [                                  //declaro arreglo/constante con 
 
 for i in numeros{                               //ciclo for para iterar los elementos del rango
     
-    imprime="\(i)"                              //inicializo la variable con el numero de iteracion
+    imprime="# \(i)"                              //inicializo la variable con el numero de iteracion
     
     if i%2==0{                                  //Regla: Si es par
         imprime = "\(imprime) \(reglas[0])"
